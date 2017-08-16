@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.ryanw.barcodedemo"
-        version   = "2.0.0">
+        version   = "5.0.0">
     <name>Device ID Identifier</name>
 
     <description>
@@ -13,7 +13,6 @@
         Websunil
     </author>
 
-    <feature name="http://api.phonegap.com/1.0/device" />
     <feature name="debug-server" required="true">
        <param name="domain" value="http://debug.phonegap.com"/>
        <param name="key" value="willoughby"/>
